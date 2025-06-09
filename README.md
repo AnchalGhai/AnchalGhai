@@ -9,7 +9,7 @@ I'm a Computer Science student with a keen interest in frontend development, pas
 ## 🚀 About Me
 
 - 🔭 Currently working on: Enhancing my projects and learning new technologies.
-- 🌱 Currently learning: Advanced JavaScript,Node.js, React.js, and Frontend Development.
+- 🌱 Currently learning: Advanced JavaScript,Node.js, and Frontend Development.
 - 💬 Ask me about:Java, Data Structures, and Web Design.
 - 📫 Reach me at: ghaianchal39@gmail.com
 - ⚡ Fun fact: I love turning ideas into reality through code!
