@@ -4,10 +4,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnchalGhai&color=6C63FF&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/AnchalGhai?label=Followers&style=flat-square&color=6C63FF)](https://github.com/AnchalGhai)
 
-<br/>
 
 *Passionate about building scalable applications, solving real-world problems, and continuously learning modern technologies.*
 
