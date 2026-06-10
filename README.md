@@ -17,15 +17,11 @@
 
 ## 🚀 About Me
 
-```javascript
-const anchal = {
-  education : "BS Computer Science @ SZABIST Karachi",
-  learning  : ["React.js", "REST APIs", "Cloud Deployment", "Backend Dev"],
-  askMeAbout: ["Java", "Databases", "Web Development", "Data Structures"],
-  email     : "ghaianchal39@gmail.com",
-  funFact   : "I turn complex problems into practical software solutions ⚡"
-};
-```
+- 🎓 **BS Computer Science** Student at **SZABIST Karachi**
+- 🌱 Currently learning **React.js**, **REST APIs**, **Cloud Deployment**, and **Backend Development**
+- 💬 Ask me about **Java**, **Databases**, **Web Development**, and **Data Structures**
+- 📫 Reach me at: [ghaianchal39@gmail.com](mailto:ghaianchal39@gmail.com)
+- ⚡ Fun fact: I enjoy turning complex problems into practical software solutions
 
 ---
 
@@ -69,12 +65,8 @@ const anchal = {
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🌊 KarachiFlow
-> ZABEFEST Hackathon 2026
+> *ZABEFEST Hackathon 2026*
 
 Real-time utility crisis tracker for Karachi — citizens report load shedding & water crises, community verifies, authorities act.
 
@@ -83,13 +75,12 @@ Real-time utility crisis tracker for Karachi — citizens report load shedding &
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
-[🌐 Live Demo](https://karachiflow-production.up.railway.app) · [📂 Repo](https://github.com/KULSOOM2001/karachiflow)
+[🌐 Live Demo](https://karachiflow-production.up.railway.app)
 
-</td>
-<td width="50%">
+---
 
 ### 🌐 CNDC Network Project
-> Computer Networks — SZABIST
+> *Computer Networks — SZABIST*
 
 Full-scale multi-campus enterprise network simulation — 6 campuses, 30+ VLANs, OSPF, NAT, ACLs & port security.
 
@@ -97,50 +88,34 @@ Full-scale multi-campus enterprise network simulation — 6 campuses, 30+ VLANs,
 ![OSPF](https://img.shields.io/badge/OSPF-Area%200-9b59b6?style=flat-square)
 ![VLAN](https://img.shields.io/badge/30%2B%20VLANs-brightgreen?style=flat-square)
 
-[📂 Repo](https://github.com/AnchalGhai/cndc-network-project)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### 📋 Leave Management System
-> Full-Stack Web App
+> *Full-Stack Web App*
 
 Role-based leave tracking with authentication, leave request workflows, and approval management.
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-</td>
-<td width="50%">
+---
 
 ### 🎓 University Management System
-> REST API Backend
+> *REST API Backend*
 
 Dashboard & analytics system for university management with RESTful APIs.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### 📚 Library Management System
-> Java OOP Project
+> *Java OOP Project*
 
 Object-oriented library system demonstrating core Java and OOP design principles.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
 
 ---
 
